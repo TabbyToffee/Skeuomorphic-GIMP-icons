@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   inkscape:export-ydpi="90.000000"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-filename="/home/jimmac/src/cvs/gnome/gimp/themes/Default/images/stock-layers-16.png"
+   width="16"
+   height="16"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="gimp-tool-crop.svg"
+   version="1.0"
+   viewBox="0 0 16 16"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:cy="9.0692024"
+     inkscape:cx="8.5864312"
+     inkscape:zoom="28.999243"
+     inkscape:window-height="736"
+     inkscape:window-width="1334"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="0.17254902"
+     bordercolor="#666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="g20"
+     width="16px"
+     height="16px"
+     showgrid="true"
+     inkscape:window-maximized="0"
+     inkscape:document-units="px"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4058"
+       originx="0"
+       originy="0"
+       spacingy="0.5"
+       spacingx="0.5"
+       units="px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter1"
+       x="-0.33333333"
+       y="-0.33333333"
+       width="1.6666667"
+       height="1.6666667">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix1" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter2"
+       x="-0.3333332"
+       y="-0.33333336"
+       width="1.6666664"
+       height="1.6666667">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter3"
+       x="-0.038461537"
+       y="-0.038461539"
+       width="1.0769231"
+       height="1.0769231">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix3" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter4"
+       x="-0.062499996"
+       y="-0.058823527"
+       width="1.125"
+       height="1.1176471">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix4" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Shift"
+       id="filter106"
+       x="-0.031249998"
+       y="-0.03125"
+       width="1.0625"
+       height="1.0625">
+      <feColorMatrix
+         type="hueRotate"
+         values="346"
+         result="color1"
+         id="feColorMatrix105" />
+      <feColorMatrix
+         type="saturate"
+         values="0.758539"
+         result="color2"
+         id="feColorMatrix106" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Color Shift"
+       id="filter108"
+       x="-0.019230769"
+       y="-0.019230769"
+       width="1.0384615"
+       height="1.0384615">
+      <feColorMatrix
+         type="hueRotate"
+         values="346"
+         result="color1"
+         id="feColorMatrix107" />
+      <feColorMatrix
+         type="saturate"
+         values="0.758539"
+         result="color2"
+         id="feColorMatrix108" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Color Shift"
+       id="filter110"
+       x="-0.1666666"
+       y="-0.12500001"
+       width="1.3333332"
+       height="1.25">
+      <feColorMatrix
+         type="hueRotate"
+         values="346"
+         result="color1"
+         id="feColorMatrix109" />
+      <feColorMatrix
+         type="saturate"
+         values="0.758539"
+         result="color2"
+         id="feColorMatrix110" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Color Shift"
+       id="filter112"
+       x="-0.125"
+       y="-0.16666668"
+       width="1.25"
+       height="1.3333334">
+      <feColorMatrix
+         type="hueRotate"
+         values="346"
+         result="color1"
+         id="feColorMatrix111" />
+      <feColorMatrix
+         type="saturate"
+         values="0.758539"
+         result="color2"
+         id="feColorMatrix112" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     stroke="#ef2929"
+     fill="#eeeeec"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-14.198652"
+     inkscape:cy="-5.1663457"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="872"
+     inkscape:window-height="659"
+     inkscape:window-x="403"
+     inkscape:window-y="296"
+     width="32px"
+     height="32px"
+     id="namedview73" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="display:none;fill:#000000;stroke:#e9edf3;stroke-width:0.4;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter106)"
+     id="rect1"
+     width="16"
+     height="16"
+     x="0"
+     y="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <g
+       id="g20"
+       inkscape:label="crop">
+      <rect
+         y="2.3706572"
+         x="0.11838853"
+         height="1.5468749"
+         width="2.0625"
+         id="rect4166"
+         style="display:inline;opacity:1;fill:#c2c03c;fill-opacity:1;stroke:#474304;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter112)"
+         inkscape:label="right"
+         transform="matrix(-0.96969697,0,0,-0.96969697,15.614801,15.798819)" />
+      <rect
+         y="13.714407"
+         x="11.977763"
+         height="2.0624998"
+         width="1.5468756"
+         id="rect4168"
+         style="display:inline;opacity:1;fill:#c2c03c;fill-opacity:1;stroke:#474304;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter110)"
+         inkscape:label="top"
+         transform="matrix(-0.96969697,0,0,-0.96969697,15.614801,15.798819)" />
+      <path
+         style="display:inline;opacity:1;fill:#126c0c;fill-opacity:1;stroke:#8ae08a;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter108)"
+         d="M 3.985576,0.30815709 H 2.1808885 V 13.714407 H 15.587139 l 0,-1.804687 H 3.985576 Z"
+         id="path4158"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="top right"
+         transform="matrix(-0.96969697,0,0,-0.96969697,15.614801,15.798819)" />
+      <path
+         style="filter:url(#filter106);display:inline;opacity:1;fill:#c2c03c;stroke:#474304;stroke-width:0.515625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1;stroke-opacity:1;paint-order:stroke fill markers;fill-opacity:1"
+         d="m 11.977764,10.620657 h 1.546875 l 0,-8.2499999 H 5.2746385 v 1.546875 h 6.7031255 z"
+         id="path4160"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:label="bottom left"
+         transform="matrix(-0.96969697,0,0,-0.96969697,15.614801,15.798819)" />
+    </g>
+  </g>
+</svg>

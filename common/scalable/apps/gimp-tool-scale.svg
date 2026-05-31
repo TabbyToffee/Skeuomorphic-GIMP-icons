@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg49"
+   sodipodi:docname="gimp-tool-scale.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview49"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="20.027142"
+     inkscape:cx="7.5897"
+     inkscape:cy="16.327842"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg49">
+    <inkscape:grid
+       id="grid49"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="g58"
+     inkscape:label="frame 2"
+     style="display:inline">
+    <path
+       style="fill:#4b3600;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 23,6 V 21 H 6 V 6 Z"
+       id="path50" />
+    <path
+       style="fill:#ebc040;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers;stroke:none;stroke-opacity:1"
+       d="M 22,7 V 20 H 7 V 7 Z"
+       id="path56" />
+  </g>
+  <defs
+     id="defs49">
+    <linearGradient
+       id="linearGradient59"
+       x1="5.76788"
+       y1="5.76777"
+       x2="17.0816"
+       y2="17.0815"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#204A87"
+         stop-opacity="0"
+         id="stop58"
+         offset="0"
+         style="stop-color:#1ca011;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#204A87"
+         stop-opacity="0.65"
+         id="stop59"
+         style="stop-color:#153c15;stop-opacity:1;" />
+    </linearGradient>
+    <filter
+       id="filter0_f_236_47"
+       x="1"
+       y="15"
+       width="25"
+       height="10"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood46" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="BackgroundImageFix"
+         result="shape"
+         id="feBlend46" />
+      <feGaussianBlur
+         stdDeviation="2"
+         result="effect1_foregroundBlur_236_47"
+         id="feGaussianBlur46" />
+    </filter>
+    <linearGradient
+       id="paint0_linear_236_47"
+       x1="19"
+       y1="3"
+       x2="19"
+       y2="19"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#4A76AE"
+         id="stop46" />
+      <stop
+         offset="1"
+         stop-color="#7192BF"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="paint1_linear_236_47"
+       x1="5.76788"
+       y1="5.76777"
+       x2="17.0816"
+       y2="17.0815"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#204A87"
+         stop-opacity="0"
+         id="stop48" />
+      <stop
+         offset="1"
+         stop-color="#204A87"
+         stop-opacity="0.65"
+         id="stop49" />
+    </linearGradient>
+    <clipPath
+       id="clip0_236_47">
+      <rect
+         width="24"
+         height="24"
+         fill="white"
+         id="rect49" />
+    </clipPath>
+    <mask
+       id="path-9-outside-2_236_47-2"
+       maskUnits="userSpaceOnUse"
+       x="1.96529"
+       y="2.00083"
+       width="18.3848"
+       height="18.3848"
+       fill="#000000">
+      <rect
+         fill="#ffffff"
+         x="1.96529"
+         y="2.0008299"
+         width="18.3848"
+         height="18.3848"
+         id="rect44-9" />
+      <path
+         d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+         id="path44-9" />
+    </mask>
+  </defs>
+  <g
+     id="g57"
+     inkscape:label="frame 1"
+     style="display:inline">
+    <path
+       style="fill:#4b3600;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 1,2 H 9 V 9 H 1 Z"
+       id="path49" />
+    <path
+       style="fill:#d19e05;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 2,3 V 8 H 8 V 3 Z"
+       id="path55" />
+  </g>
+  <path
+     d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+     stroke="url(#paint1_linear_236_47)"
+     stroke-width="2"
+     stroke-linejoin="round"
+     mask="url(#path-9-outside-2_236_47-2)"
+     id="path46-1"
+     style="display:inline;fill:none;fill-opacity:1;stroke:#153c15;stroke-opacity:1"
+     inkscape:label="arrow outline" />
+  <path
+     d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+     fill="#ffffff"
+     id="path45-8"
+     style="display:inline;fill:#1ca011;fill-opacity:1"
+     inkscape:label="arrow" />
+  <g
+     clip-path="url(#clip0_236_47)"
+     id="g46"
+     style="display:none">
+    <g
+       filter="url(#filter0_f_236_47)"
+       id="g1">
+      <ellipse
+         cx="13.5"
+         cy="20"
+         rx="8.5"
+         ry="1"
+         fill="#000000"
+         fill-opacity="0.7"
+         id="ellipse1" />
+    </g>
+    <path
+       d="M 6,21 V 6 h 17 v 15 z"
+       fill="#204a87"
+       id="path1" />
+    <mask
+       id="path-3-inside-1_236_47"
+       fill="#ffffff">
+      <path
+         fill-rule="evenodd"
+         clip-rule="evenodd"
+         d="M 7,20 V 7 h 15 v 13 z"
+         id="path2" />
+    </mask>
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M 7,20 V 7 h 15 v 13 z"
+       fill="url(#paint0_linear_236_47)"
+       stroke="#ffffff"
+       stroke-opacity="0.45"
+       stroke-width="2"
+       stroke-linecap="square"
+       stroke-linejoin="round"
+       mask="url(#path-3-inside-1_236_47)"
+       id="path3" />
+    <path
+       d="M 9,2 H 1 v 7 h 8 z"
+       fill="#204a87"
+       id="path4" />
+    <rect
+       x="2.5"
+       y="3.5"
+       width="5"
+       height="4"
+       fill="#97b3d9"
+       stroke="#b3c8e4"
+       id="rect4" />
+    <path
+       d="m 15,5 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path5" />
+    <path
+       d="m 15,9 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path6" />
+    <path
+       d="m 14,4 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path7" />
+    <path
+       d="M 6,4 H 7 V 5 H 6 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path8" />
+    <path
+       d="M 8,4 H 9 V 5 H 8 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path9" />
+    <path
+       d="m 10,4 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path10" />
+    <path
+       d="m 12,4 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path11" />
+    <path
+       d="M 4,6 H 5 V 7 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path12" />
+    <path
+       d="M 4,8 H 5 V 9 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path13" />
+    <path
+       d="m 6,14 h 1 v 1 H 6 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path14" />
+    <path
+       d="m 8,14 h 1 v 1 H 8 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path15" />
+    <path
+       d="m 4,10 h 1 v 1 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path16" />
+    <path
+       d="m 15,7 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path17" />
+    <path
+       d="m 10,14 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path18" />
+    <path
+       d="m 15,11 h 1 v 1 h -1 z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path19" />
+    <path
+       d="M 12,14 12.5,14.5 13,15 H 12 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path20" />
+    <path
+       d="m 4,14 h 1 v 1 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path21" />
+    <path
+       d="m 4,12 h 1 v 1 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path22" />
+    <path
+       d="M 4,4 H 5 V 5 H 4 Z"
+       fill="#204a87"
+       fill-opacity="0.5"
+       id="path23" />
+    <path
+       d="m 15,8 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path24" />
+    <path
+       d="M 7,4 H 8 V 5 H 7 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path25" />
+    <path
+       d="m 9,4 h 1 V 5 H 9 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path26" />
+    <path
+       d="m 11,4 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path27" />
+    <path
+       d="m 13,4 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path28" />
+    <path
+       d="M 4,5 H 5 V 6 H 4 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path29" />
+    <path
+       d="M 4,7 H 5 V 8 H 4 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path30" />
+    <path
+       d="m 7,14 h 1 v 1 H 7 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path31" />
+    <path
+       d="m 9,14 h 1 v 1 H 9 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path32" />
+    <path
+       d="m 4,9 h 1 v 1 H 4 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path33" />
+    <path
+       d="m 15,6 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path34" />
+    <path
+       d="m 11,14 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path35" />
+    <path
+       d="m 15,10 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path36" />
+    <path
+       d="m 13,14 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path37" />
+    <path
+       d="m 15,12 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path38" />
+    <path
+       d="m 4,13 h 1 v 1 H 4 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path39" />
+    <path
+       d="m 4,11 h 1 v 1 H 4 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path40" />
+    <path
+       d="M 5,4 H 6 V 5 H 5 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path41" />
+    <path
+       d="m 15,4 h 1 v 1 h -1 z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path42" />
+    <path
+       d="m 5,14 h 1 v 1 H 5 Z"
+       fill="#ffffff"
+       fill-opacity="0.4"
+       id="path43" />
+    <rect
+       x="4"
+       y="4"
+       width="3"
+       height="3"
+       fill="#6283b3"
+       fill-opacity="0.6"
+       id="rect43" />
+    <mask
+       id="path-9-outside-2_236_47"
+       maskUnits="userSpaceOnUse"
+       x="1.96529"
+       y="2.00083"
+       width="18.3848"
+       height="18.3848"
+       fill="#000000">
+      <rect
+         fill="#ffffff"
+         x="1.96529"
+         y="2.0008299"
+         width="18.3848"
+         height="18.3848"
+         id="rect44" />
+      <path
+         d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+         id="path44" />
+    </mask>
+    <path
+       d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+       fill="#ffffff"
+       id="path45" />
+    <path
+       d="M 15,15.5 5.16871,5.87142 C 4.97122,5.678 4.96956,5.36058 5.16501,5.1651 5.36048,4.96961 5.67793,4.97125 5.87137,5.16876 L 15.5,15 17,13.5 V 17 h -3.5 z"
+       stroke="url(#paint1_linear_236_47)"
+       stroke-width="2"
+       stroke-linejoin="round"
+       mask="url(#path-9-outside-2_236_47)"
+       id="path46"
+       inkscape:label="path46" />
+  </g>
+  <g
+     id="g56"
+     inkscape:label="pallete"
+     style="display:none">
+    <path
+       style="fill:#153c15;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="m 0,25 v 1 h 1 v -1 z"
+       id="path51" />
+    <path
+       style="fill:#1ca011;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="m 1,25 h 1 v 1 H 1 Z"
+       id="path52" />
+    <path
+       style="fill:#4b3600;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="m 2,25 v 1 h 1 v -1 z"
+       id="path53" />
+    <path
+       style="fill:#d19e05;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+       d="m 3,25 h 1 v 1 H 3 Z"
+       id="path54" />
+  </g>
+</svg>

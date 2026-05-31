@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   inkscape:export-ydpi="90.000000"
+   inkscape:export-xdpi="90.000000"
+   inkscape:export-filename="/home/jimmac/src/cvs/gnome/gimp/themes/Default/images/stock-layers-16.png"
+   width="16"
+   height="16"
+   id="svg11300"
+   sodipodi:version="0.32"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="gimp-tool-eraser.svg"
+   version="1.0"
+   viewBox="0 0 16 16"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:cy="9.7219048"
+     inkscape:cx="6.6742857"
+     inkscape:zoom="32.8125"
+     inkscape:window-height="736"
+     inkscape:window-width="1334"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="0.17254902"
+     bordercolor="#666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="layer2"
+     width="16px"
+     height="16px"
+     showgrid="true"
+     inkscape:window-maximized="0"
+     inkscape:document-units="px"
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4370"
+       originx="0"
+       originy="0"
+       spacingy="0.5"
+       spacingx="0.5"
+       units="px" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient9"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#c74332;stop-opacity:1;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#c74332;stop-opacity:0;"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9"
+       id="radialGradient10"
+       cx="8"
+       cy="9.5"
+       fx="8"
+       fy="9.5"
+       r="7.7071068"
+       gradientTransform="matrix(1,0,0,0.77850225,0,2.1042286)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter2"
+       x="-0.36312517"
+       y="-1.0288547"
+       width="1.7262503"
+       height="3.0577093">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.2860683"
+         id="feGaussianBlur2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     stroke="#ef2929"
+     fill="#eeeeec"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="0.25490196"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-14.198652"
+     inkscape:cy="-5.1663457"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="872"
+     inkscape:window-height="659"
+     inkscape:window-x="403"
+     inkscape:window-y="296"
+     width="32px"
+     height="32px"
+     id="namedview73" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jakub Steiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>http://jimmac.musichall.cz</dc:source>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <ellipse
+       style="display:none;opacity:0.164405;mix-blend-mode:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-miterlimit:8.6;paint-order:stroke fill markers;filter:url(#filter2)"
+       id="path1"
+       cx="8.5"
+       cy="14"
+       rx="4.25"
+       ry="1.5"
+       inkscape:label="shadow" />
+    <rect
+       style="display:none;fill:#2b2b2b;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect8"
+       width="16"
+       height="16"
+       x="0"
+       y="0" />
+    <path
+       style="display:inline;fill:url(#radialGradient10);fill-opacity:1;stroke:#000000;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 3,15 1,13 9.5,4.5 H 13 L 15,7 7,15 Z"
+       id="path8"
+       inkscape:label="outline"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#6595b9;fill-opacity:1;stroke:#385264;stroke-width:0.6;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 7,7 9.5,4.5 H 13 L 15,7 12.5,9.5 10.5,7 Z"
+       id="path3"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="blue" />
+    <path
+       style="fill:#da786c;fill-opacity:1;stroke:#aa3f32;stroke-width:0.6;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 3,15 1,13 7,7 h 3.5 l 2,2.5 L 7,15 Z"
+       id="path4"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="pink" />
+    <path
+       style="display:none;fill:#fefefe;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 4,15 2,13 11,4 h -0.5 l -9,9 2,2 z"
+       id="path9"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="white" />
+    <path
+       style="fill:#000000;fill-opacity:0.257164"
+       d="m 6.5,15 -2,-2 H 1 l 2,2 z"
+       id="path5"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="bottom face" />
+    <path
+       style="fill:#efefef;fill-opacity:0.337579"
+       d="M 1,13 9.5,4.5 H 13 L 4.5,13 Z"
+       id="path6"
+       sodipodi:nodetypes="ccccc"
+       inkscape:label="top face" />
+    <path
+       style="display:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 9,15 1,-1 h 6 v 1 z"
+       id="path7"
+       inkscape:label="pencil line"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
