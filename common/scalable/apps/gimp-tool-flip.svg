@@ -254,13 +254,13 @@
      inkscape:label="Layer 1">
     <path
        style="fill:#ebc040;stroke:#4b3600;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 15,19 V 8 l 5,11 z"
+       d="M 15,19 V 7 l 7,12 z"
        id="path15"
        sodipodi:nodetypes="cccc"
        inkscape:label="right triangle" />
     <path
-       style="stroke-width:2;stroke-dasharray:none;display:inline;fill:#d19e05;fill-opacity:1;stroke:#4b3600;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.6;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 10,19 V 8 L 5,19 Z"
+       style="display:inline;fill:#d19e05;fill-opacity:1;stroke:#4b3600;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:8.6;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 10,19 V 7 L 3,19 Z"
        id="path16"
        sodipodi:nodetypes="cccc"
        inkscape:label="left triangle" />

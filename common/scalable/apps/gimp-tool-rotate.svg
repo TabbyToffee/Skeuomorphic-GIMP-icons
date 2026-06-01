@@ -23,14 +23,14 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="22.101563"
-     inkscape:cx="10.248144"
-     inkscape:cy="11.854365"
+     inkscape:cx="9.7504418"
+     inkscape:cy="13.256981"
      inkscape:window-width="1366"
      inkscape:window-height="768"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g4">
+     inkscape:current-layer="g20">
     <inkscape:grid
        id="grid15"
        units="px"
@@ -239,7 +239,7 @@
          d="m 4,4 v 8 H 15 V 4 Z"
          id="path19" />
       <path
-         style="fill:#d19e05;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+         style="fill:#ebc040;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
          d="m 5,5 v 6 h 9 V 5 Z"
          id="path20" />
     </g>
@@ -373,6 +373,32 @@
          inkscape:original-d="m 16.5,5.5 v 1.25 l 0.75,0.75 h 1.25 v 1 h -2 v 1.203125 l 3,3 3,-3 V 8.5 h -2 V 6.75 L 19.25,5.5 Z"
          inkscape:path-effect="#path-effect1"
          inkscape:label="top right" />
+      <g
+         id="g56"
+         inkscape:label="pallete"
+         transform="translate(0,-1)"
+         style="display:inline">
+        <path
+           style="fill:#153c15;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+           d="m 0,25 v 1 h 1 v -1 z"
+           id="path51" />
+        <path
+           style="fill:#1ca011;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+           d="m 1,25 h 1 v 1 H 1 Z"
+           id="path52" />
+        <path
+           style="fill:#4b3600;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+           d="m 2,25 v 1 h 1 v -1 z"
+           id="path53" />
+        <path
+           style="fill:#d19e05;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+           d="m 3,25 h 1 v 1 H 3 Z"
+           id="path54" />
+        <path
+           style="fill:#ebc040;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;paint-order:stroke fill markers"
+           d="m 4,25 h 1 v 1 H 4 Z"
+           id="path20-0" />
+      </g>
       <path
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#153c15;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
          d="m 16.5,5.5 v 1.25 l 0.75,0.75 h 1.25 v 1 H 17 A 0.5,0.5 135 0 0 16.5,9 v 0.453125 a 0.60355339,0.60355339 67.5 0 0 0.176777,0.4267767 l 2.46967,2.4696703 a 0.5,0.5 180 0 0 0.707106,0 l 2.46967,-2.4696703 A 0.60355339,0.60355339 112.5 0 0 22.5,9.453125 V 9 A 0.5,0.5 45 0 0 22,8.5 H 20.5 V 7 A 0.60355339,0.60355339 67.5 0 0 20.323223,6.5732233 L 19.426777,5.6767767 A 0.60355339,0.60355339 22.5 0 0 19,5.5 Z"
