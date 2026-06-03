@@ -3,10 +3,10 @@
    sodipodi:docname="gimp-tool-crop-symbolic.svg"
    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    version="1.1"
-   width="16.000002"
-   height="16.000038"
+   width="24"
+   height="24"
    id="svg7384"
-   viewBox="0 0 16.000001 16.000038"
+   viewBox="0 0 23.999999 24"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -32,9 +32,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="11.028215"
-     inkscape:cx="6.941576"
-     inkscape:zoom="61.297319"
+     inkscape:cy="22.550695"
+     inkscape:cx="16.454636"
+     inkscape:zoom="52.903025"
      showgrid="true"
      id="namedview1513"
      inkscape:window-height="768"
@@ -67,7 +67,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
         <dc:contributor>
           <cc:Agent>
             <dc:title>Barbara Muraus, Jakub Steiner, Klaus Staedtler</dc:title>
@@ -214,9 +213,10 @@
        x1="2"
        id="linearGradient2162"
        xlink:href="#linearGradient19282"
-       inkscape:collect="always" />
+       inkscape:collect="always"
+       gradientTransform="matrix(1.4375,0,0,1.4375,0.12500008,-0.125)" />
     <linearGradient
-       gradientTransform="rotate(180,8,8)"
+       gradientTransform="matrix(-1.4375,0,0,-1.4375,23.310324,22.6875)"
        y2="7.5"
        x2="15"
        y1="7.5"
@@ -233,29 +233,29 @@
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         d="m 1.0000001,3 c -0.00236,0.5647123 -0.002726,1.3475512 0,2 H 11 l 10e-7,10 h 2 L 13,4.0546875 C 13.015622,3.7709668 12.909805,3.4939972 12.708984,3.2929688 12.521479,3.1054233 12.267154,3.0000401 12.001953,3 Z"
-         style="opacity:1;fill:url(#linearGradient2168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:22.6772;stop-color:#000000"
+         d="m 1,4 v 3 h 15.000001 l 0,15 h 3 L 18.997824,5.5161133 C 19.020281,5.1082648 18.868169,4.710121 18.579488,4.4211426 18.30995,4.151546 17.944358,4.0000576 17.563131,4 Z"
+         style="opacity:1;fill:url(#linearGradient2168);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:32.5985;stop-color:#000000"
          id="path2166" />
       <path
          sodipodi:nodetypes="ccccccccc"
          inkscape:connector-curvature="0"
-         d="m 2,6 v 7 c 4.01e-5,0.265201 0.1054233,0.519526 0.2929688,0.707031 C 2.4799954,13.894099 2.7335227,13.999443 2.9980469,14 H 10 V 12 H 4 V 6 Z"
-         style="opacity:1;fill:url(#linearGradient2162);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:22.6772;stop-color:#000000"
+         d="m 3.0000001,8 0,10.5625 c 5.76e-5,0.381226 0.151546,0.746819 0.4211427,1.016357 C 3.6899935,19.847767 4.054439,19.999199 4.4346925,20 H 15.000001 l 0,-3 H 6.0000003 l 0,-9 z"
+         style="opacity:1;fill:url(#linearGradient2162);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:32.5985;stop-color:#000000"
          id="path2217" />
       <rect
-         style="opacity:1;fill:#b4b4b4;stroke:#ffffff;stroke-width:1.354;stroke-miterlimit:8.6;stroke-dasharray:1.56387;stroke-dashoffset:0.8124;stroke-opacity:0.7973;paint-order:stroke fill markers;fill-opacity:1"
+         style="opacity:1;fill:#bbbbbb;fill-opacity:1;stroke:#ffffff;stroke-width:1.94638;stroke-miterlimit:8.6;stroke-dasharray:2.24806;stroke-dashoffset:1.16782;stroke-opacity:0.7973;paint-order:stroke fill markers"
          id="rect1"
-         width="2"
-         height="1"
-         x="2"
+         width="3"
+         height="2"
+         x="3.0000002"
          y="1" />
       <rect
-         style="opacity:1;fill:#b4b4b4;stroke:#ffffff;stroke-width:1.354;stroke-miterlimit:8.6;stroke-dasharray:1.56387;stroke-dashoffset:0.8124;stroke-opacity:0.7973;paint-order:stroke fill markers;fill-opacity:1"
+         style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:#ffffff;stroke-width:1.94638;stroke-miterlimit:8.6;stroke-dasharray:2.24806;stroke-dashoffset:1.16782;stroke-opacity:0.7973;paint-order:stroke fill markers"
          id="rect2"
-         width="1"
-         height="2"
-         x="14.000001"
-         y="12" />
+         width="2.000001"
+         height="3"
+         x="20"
+         y="17" />
     </g>
   </g>
 </svg>

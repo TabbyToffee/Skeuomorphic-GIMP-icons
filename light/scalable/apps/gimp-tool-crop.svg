@@ -22,11 +22,11 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:cy="16.190782"
-     inkscape:cx="8.6053369"
-     inkscape:zoom="15.687939"
+     inkscape:cy="8.8658309"
+     inkscape:cx="5.3484089"
+     inkscape:zoom="31.130754"
      inkscape:window-height="736"
-     inkscape:window-width="1024"
+     inkscape:window-width="1334"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="0.17254902"
@@ -76,7 +76,7 @@
          offset="0"
          id="stop1" />
       <stop
-         style="stop-color:#788fb5;stop-opacity:1;"
+         style="stop-color:#8e949f;stop-opacity:1;"
          offset="1"
          id="stop2" />
     </linearGradient>
