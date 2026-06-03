@@ -7,7 +7,7 @@ For now, the only icons changed are the tool icons.
 
 ![A screenshot of the light variant of the theme.](screenshots/light.png)
 
-![A screenshot of the dark variant of the theme.](screenshots/dark.png.png)
+![A screenshot of the dark variant of the theme.](screenshots/dark.png)
 
 ## Goals
 
